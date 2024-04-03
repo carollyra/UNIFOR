@@ -1,14 +1,14 @@
 
 **Curso:** Análise e Desenvolvimento de Sistemas <br>
-**Disciplina:** Raciocínio Lógico Algoritmico
-**Código/Turma:** T160-80 
-**Professor:** Ricardo Carubbi 
-**Data:** 21/03/2024
-**Aluno(a):** Maria Carolina Magnani de Lyra
-**Matrícula:** 2413760  
+**Disciplina:** Raciocínio Lógico Algoritmico <br>
+**Código/Turma:** T160-80 <br>
+**Professor:** Ricardo Carubbi <br>
+**Data:** 21/03/2024 <br>
+**Aluno(a):** Maria Carolina Magnani de Lyra <br>
+**Matrícula:** 2413760 <br>  
 
-**1a chamada (Sim/Não):** Não
-**2a chamada (Sim/Não):** Sim
+**1a chamada (Sim/Não):** Não <br>
+**2a chamada (Sim/Não):** Sim <br>
 
 # Avaliação Diagnóstica 1
 
