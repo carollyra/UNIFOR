@@ -1,6 +1,6 @@
 # UNIFOR
-**Nome**: Maria Carolina Magnani
-**Disciplina**: Raciocínio lógico algorítmico
+**Nome**: Maria Carolina Magnani <br>
+**Disciplina**: Raciocínio lógico algorítmico <br>
 
 ## Lista de exercícios 01
 
