@@ -1,7 +1,7 @@
 
 # UNIFOR
-**Nome**: Maria Carolina Magnani
-**Disciplina**: Raciocínio lógico algorítmico
+**Nome**: Maria Carolina Magnani <br>
+**Disciplina**: Raciocínio lógico algorítmico <br>
 
 ## Exercício exemplo 1
 Implemente e teste um programa que imprima os n primeiros números.
