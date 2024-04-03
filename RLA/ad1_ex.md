@@ -1,5 +1,5 @@
 
-**Curso:** Análise e Desenvolvimento de Sistemas
+**Curso:** Análise e Desenvolvimento de Sistemas <br>
 **Disciplina:** Raciocínio Lógico Algoritmico
 **Código/Turma:** T160-80 
 **Professor:** Ricardo Carubbi 
